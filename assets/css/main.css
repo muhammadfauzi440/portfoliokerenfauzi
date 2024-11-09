@@ -59,7 +59,7 @@
 
 .client-logo img {
   padding: 50px;
-  max-width: 80%;
+  /* max-width: 80%; */
   transition: 0.3s;
 }
 
