@@ -364,13 +364,14 @@ h6 {
 .navmenu a:focus .toggle-dropdown:hover {
   background-color: var(--accent-color);
   color: var(--contrast-color);
-  transform: scale(1.1);
+
 }
 
 .navmenu a:hover,
 .navmenu .active,
 .navmenu .active:focus {
   color: var(--nav-hover-color);
+  transform: scale(1.2);
 }
 
 .navmenu a:hover .navicon,
